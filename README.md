@@ -21,6 +21,8 @@ Every folder includes the relevant screenshots and supporting files for that mod
 
 - [Module 1 & 2](./Networking%20Assignment/Module%201%262/)
 - [Module 3 & 4](./Networking%20Assignment/Module%203%264/)
+- [Module 5 & 6](./Networking%20Assignment/Module%205%266/)
+- [Module 7 & 8](./Networking%20Assignment/Module%207%268/)
 
 ---
 
